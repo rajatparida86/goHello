@@ -1,0 +1,2 @@
+# goHello
+Initial GO helpers
