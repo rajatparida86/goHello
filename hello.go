@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/rajatparida86/mathutil"
+	"github.com/rajatparida86/stringutil"
+)
 
 func main() {
-	fmt.Println("Go Hello1")
+	fmt.Println(stringutil.Reverse("Rajat"))
+	fmt.Println(mathutil.Add(1, 2))
 }
